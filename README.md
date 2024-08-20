@@ -1,1 +1,1 @@
-# javaScriptVStypeScript
+# JavaScriptVStypeScript
